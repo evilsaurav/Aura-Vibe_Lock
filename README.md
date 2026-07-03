@@ -31,4 +31,6 @@ Aura Vibe Lock is a Gen Z-focused gamified habit-tracking and journaling app bui
 4.  Sync Gradle and run the app!
 
 ## 📸 Screenshots
-*(Coming soon - The UI relies on heavy motion and micro-animations that are best experienced live on an Android device!)*
+*(Coming soon - The UI relies on heavy motion and micro-animations that are best experienced live on an Android device!)*<img width="720" height="1600" alt="WhatsApp Image 2026-07-03 at 5 09 34 PM (3)" src="https://github.com/user-attachments/assets/6049c564-9410-49d6-8407-8c011b090d1a" />
+<img width="1080" height="2400" alt="WhatsApp Image 2026-07-03 at 5 09 35 PM" src="https://github.com/user-attachments/assets/0b336466-1f33-4cf3-93b0-b1e80e04621d" />
+
