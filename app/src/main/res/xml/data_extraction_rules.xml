@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+   Sample data extraction rules. The rules defined here will apply to data extraction operations.
+-->
+<data-extraction-rules>
+    <cloud-backup>
+        <!-- Include everything -->
+    </cloud-backup>
+    <device-transfer>
+        <!-- Include everything -->
+    </device-transfer>
+</data-extraction-rules>

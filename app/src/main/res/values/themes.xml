@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.VibeLock" parent="android:Theme.Material.Light.NoActionBar">
+        <!-- We use Jetpack Compose for our themes, so this is just the base wrapper -->
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+    </style>
+</resources>

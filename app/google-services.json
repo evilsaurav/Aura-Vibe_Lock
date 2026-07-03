@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "487732019131",
+    "project_id": "aura-6f401",
+    "storage_bucket": "aura-6f401.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487732019131:android:ded3b59ca6bfbede324e9e",
+        "android_client_info": {
+          "package_name": "com.vibelock.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "487732019131-tpfv37l6llur661ucmd8a65g444u0n1a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vibelock.app",
+            "certificate_hash": "42aebe16f783fb3c2015830b05e369baad2c3fc8"
+          }
+        },
+        {
+          "client_id": "487732019131-c2va0nsm705jb8t1ua1mjcnsdqtqacfe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoKpKdA8npdHQoFT2mp6cj5wBZGvggOgs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "487732019131-c2va0nsm705jb8t1ua1mjcnsdqtqacfe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

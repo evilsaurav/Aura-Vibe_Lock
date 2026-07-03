@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+   Sample backup rules. The rules defined here will apply to Auto Backup.
+-->
+<full-backup-content>
+    <!-- Include everything -->
+</full-backup-content>
