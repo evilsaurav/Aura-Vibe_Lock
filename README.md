@@ -26,7 +26,7 @@ Aura Vibe Lock is a Gen Z-focused gamified habit-tracking and journaling app bui
 2.  Open the project in **Android Studio**.
 3.  Add your own Google Gemini API key to `local.properties`:
     ```properties
-    GEMINI_API_KEY=AIzaSyYourGeminiKeyHere
+    GEMINI_API_KEY=<YOUR_GEMINI_API_KEY_HERE>
     ```
 4.  Sync Gradle and run the app!
 
